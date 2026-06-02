@@ -50,4 +50,4 @@ A reinforcement learning agent trained to navigate a Pygame-based environment us
 
 📍 Middlesbrough, United Kingdom
 
-💼 LinkedIn: chris-manson-a3b18332a
+💼 LinkedIn: [chris-manson-a3b18332a](https://www.linkedin.com/in/chris-manson-a3b18332a/)
